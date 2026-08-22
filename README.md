@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dharmendra Yadav 👋
 
-<!--
-**dharmendra-yadav01/dharmendra-yadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cyber Security & Cloud Security Learner
 
-Here are some ideas to get you started:
+I am a BTech student currently building my skills in Cyber Security and Cloud Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- 🌐 Computer Networking
+- 🐧 Linux
+- 🔎 Wireshark
+- 🛡️ Nmap
+- 🔐 Cyber Security Fundamentals
+- ☁️ Cloud Security
+
+### 🧪 Hands-on Practice
+
+I am building practical labs and documenting my learning through GitHub projects.
+
+### 🎯 Career Goal
+
+To become a Cyber Security / Cloud Security Engineer.
+
+### 📚 My Learning Journey
+
+Networking → Linux → Security Fundamentals → SOC → Cloud Security
+
+---
+
+⭐ I believe in learning by building, practicing, and documenting.
